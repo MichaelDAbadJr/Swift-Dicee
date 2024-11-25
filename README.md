@@ -1,5 +1,5 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
+This repository was cloned from Angela Yu's iOS complete course
 # Dicee
 
 ## Our Goal
